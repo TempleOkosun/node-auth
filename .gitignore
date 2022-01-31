@@ -116,3 +116,7 @@ dist
 .yarn/install-state.gz
 .pnp.*
 
+
+
+# Jetbrain IDE stuffs
+.idea
